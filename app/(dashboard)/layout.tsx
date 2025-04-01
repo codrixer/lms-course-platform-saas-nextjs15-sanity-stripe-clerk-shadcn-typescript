@@ -5,7 +5,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 import { SidebarProvider } from "@/components/providers/sidebar-provider";
 
 export const metadata: Metadata = {
-  title: "DevTube – Build & Deploy Next.js/React Projects from YouTube Tutorials",
+  title: "DevTubelly – Build & Deploy Next.js/React Projects from YouTube Tutorials",
   description: "Clone, customize, and deploy real projects from top Next.js and React YouTube tutorials. Every project includes the full source code, step-by-step setup guide, and one-click Vercel deployment. Learn by building—no more missing code or broken setups!",
 };
 
