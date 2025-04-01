@@ -20,7 +20,7 @@ export default function Header() {
             >
               <SquareDashedBottomCode className="h-8 w-8"/>
               <span className="text-xl font-bold bg-gradient-to-r from-primary/90 to-primary bg-clip-text text-transparent">
-                DevTube
+                DevTubelly
               </span>
             </Link>
 
